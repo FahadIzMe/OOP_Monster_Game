@@ -17,6 +17,7 @@ This is the open ended OOP project from my second semester. We were free to make
 - The types of the different monsters have been coded in but they are not being used in damage formulas because I did not have enough time.
 
 # Notes
+- **Convert the mp3s to wav first before compiling the code yourself or they will not be compiled into the game.**
 - **DO NOT RUN THE GAME INSIDE VSCODE. The compiled exe must be run as a maximized standalone terminal or the graphics will be messed up.**
 - The audios used as background music are just the top few copyright free audios I sourced from https://pixabay.com/music/ and am using them under section 5 of their terms and service "Content License granted to you for Content (other than CC0 Content)". Please be respectful of their website and visit them to source audios.
 - The ASCII art is sourced from "https://www.asciiart.eu/". I DO NOT own anything. I only modified these sprites enough to fit on my laptop screen using C++ cout statements.
