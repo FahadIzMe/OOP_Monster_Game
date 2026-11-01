@@ -19,7 +19,8 @@ This is the open ended OOP project from my second semester. We were free to make
 # Notes
 - **DO NOT RUN THE GAME INSIDE VSCODE. The compiled exe must be run as a maximized standalone terminal or the graphics will be messed up.**
 - The audios used as background music are just the top few copyright free audios I sourced from https://pixabay.com/music/ and am using them under section 5 of their terms and service "Content License granted to you for Content (other than CC0 Content)". Please be respectful of their website and visit them to source audios.
-- The ASCII art is sourced from "https://www.asciiart.eu/". I DO NOT own anything. I only modified these sprites enough to fit on my laptop screen using C++ cout statements. The names of the audio files are just placeholders.
+- The ASCII art is sourced from "https://www.asciiart.eu/". I DO NOT own anything. I only modified these sprites enough to fit on my laptop screen using C++ cout statements.
+- The names of the audio files are just placeholders.
 - The death effect sound is the public domain sound effect called Wilhelm scream.
 - Read the comments in the code for the in-game formulas and logic.
 
